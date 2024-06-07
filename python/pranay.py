@@ -5,3 +5,4 @@ for i in range(1,a+1):
     stars="* " *i
     print(spaces+stars)
     b=b-1
+print("End")

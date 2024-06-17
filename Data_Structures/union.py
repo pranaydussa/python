@@ -1,0 +1,11 @@
+set_a={1,2,3,4}
+set_b={4,5,6,7}
+union=set_a|set_b
+print(union)
+b={1,2,3,4,5}
+c=[8,"six"]
+d=b.union(c)
+print(d)
+str_a="red"
+uni=set_a.union(str_a)
+print(uni)
